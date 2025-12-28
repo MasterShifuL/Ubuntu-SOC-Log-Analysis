@@ -17,3 +17,7 @@ Future deviations from this pattern may indicate suspicious or unauthorized acti
 
 ## Evidence
 Screenshots of authentication logs and command outputs are available in the `screenshots/` directory.
+
+## Analyst Reflection
+At this stage, no security incident was identified.
+However, establishing this baseline is critical to avoid false positives and unnecessary escalation in future analysis.
