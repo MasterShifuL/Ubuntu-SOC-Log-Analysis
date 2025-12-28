@@ -14,3 +14,6 @@
 ## SOC Note
 This baseline confirms that current authentication behavior is normal.
 Future deviations from this pattern may indicate suspicious or unauthorized activity.
+
+## Evidence
+Screenshots of authentication logs and command outputs are available in the `screenshots/` directory.
